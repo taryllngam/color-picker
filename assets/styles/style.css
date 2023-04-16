@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  padding-top: 20%;
+  background-color: #221502;
+}
+
+.board {
+  border: 1px solid black;
+  padding: 10%;
+  background-color: #0d1414;
+}
+
+#hex {
+  width: 20vw;
+  height: 5vh;
+}
+
+#color {
+  width: 10vw;
+  height: 4vh;
+}
